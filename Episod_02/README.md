@@ -1,0 +1,15 @@
+# Prcel
+-Dev Build
+- local Server
+- HMR (Hot module reload)
+- Catching Fat build
+- Image Optmization
+- Minification.
+- Bundling
+- Compress
+- Code Splitting
+- Support Older Browser
+- Error Hanling
+- Diagnostic
+- Tree Shaking -> Remove unused code
+-- Https
