@@ -15,7 +15,7 @@
 -- Https
 
 # We use parcel for bundling
---install parce -> npm i -D parcel
+--install parcel -> npm i -D parcel
 --install react -> npm i react
 --install react-dom -> npm i react-dom
 
